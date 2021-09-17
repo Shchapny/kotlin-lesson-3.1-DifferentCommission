@@ -16,7 +16,7 @@ class MainKtTest {
             amountMonth = testAmountMonth.toLong()
         )
 
-        assertEquals("Сумма превышает дневной лимит!", result)
+        assertEquals("Без комиссии", result)
     }
 
     @Test
