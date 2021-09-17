@@ -1,3 +1,5 @@
+package ru.netology
+
 const val MASTERCARD = "Mastercard"
 const val MAESTRO = "Maestro"
 const val VISA = "Visa"
